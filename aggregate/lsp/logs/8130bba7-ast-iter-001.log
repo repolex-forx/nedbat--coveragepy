@@ -1,0 +1,7 @@
+[2026-04-09T18:09:49Z] === AST ITERATION 1 START | repo=nedbat/coveragepy sha=8130bba7 ===
+[2026-04-09T18:09:49Z] [iter=1] PHASE START: ast repo=nedbat/coveragepy sha=8130bba7
+[2026-04-09T18:09:49Z] [iter=1] Building AST aggregate chunks
+[2026-04-09T18:11:29Z] [iter=1] AST chunks built count=1 triples=1302911
+[2026-04-09T18:11:29Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/8130bba7b4a22df5c775b9a1439d2d5370d349e3/.complete
+[2026-04-09T18:11:29Z] [iter=1] PHASE END: ast elapsed_s=100 elapsed_min=1.7
+[2026-04-09T18:11:29Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
